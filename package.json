@@ -1,0 +1,17 @@
+{
+  "name": "react-simple",
+  "version": "0.0.1",
+  "description": "simple movie-search on the frontend with react",
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "react": "^0.13.3",
+    "bourbon": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
